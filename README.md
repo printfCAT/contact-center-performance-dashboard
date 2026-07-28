@@ -162,18 +162,6 @@ The dashboard makes it possible to identify insights such as:
 
 These insights support evidence-based operational decisions.
 
-# Repository Structure
-contact-center-performance-dashboard/
-│
-├── README.md
-├── Contact Centre Performance Dashboard.pbix
-├── dashboard_screenshots/
-├── data/
-│   ├── sample_data.xlsx
-│   └── data_dictionary.md
-└── docs/
-    └── dashboard_design.md
-
 # Future Improvements
 
 Potential future enhancements include:
