@@ -32,18 +32,19 @@ This project aims to:
 * Demonstrate practical Business Intelligence and data modelling skills.
 
 # Tools & Technologies
-Tool                      Purpose
-Microsoft Power BI	      Dashboard development
-Power Query (M)	          ETL and data transformation
-DAX	                      KPI calculations
-Excel	                    Source data
-SQL Concepts	            Data modelling and analytical thinking
-GitHub	                  Version control and portfolio
+| Tool | Purpose |
+| ---- | ------- |
+| Microsoft Power BI | Dashboard development |
+| Power Query (M) | ETL and data transformation |
+| DAX	| KPI calculations |
+| Excel	| Source data |
+| SQL Concepts | Data modelling and analytical thinking |
+| GitHub | Version control and portfolio |
 
 # Data Model
 The project uses a Star Schema, a common data warehousing design that improves reporting performance and simplifies analytical queries.
 
-# Fact Table
+## Fact Table
 FactCalls
 
 Contains transactional call data including:
@@ -58,7 +59,7 @@ Contains transactional call data including:
 * Department
 * Supervisor
 
-Dimension Tables
+## Dimension Tables
 
 * Agents
 * Departments
