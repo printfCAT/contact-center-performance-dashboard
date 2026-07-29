@@ -43,7 +43,7 @@ This project aims to:
 
 # Data Model
 The project uses a Star Schema, a common data warehousing design that improves reporting performance and simplifies analytical queries.
-<img alt="star-schema" src="https://github.com/printfCAT/contact-center-performance-dashboard/project-screenshots/star-schema.png" />
+<img alt="star-schema" src="https://github.com/printfCAT/contact-center-performance-dashboard/blob/main/project-screenshots/star-schema.png" />
 
 ## Fact Table
 FactCalls
