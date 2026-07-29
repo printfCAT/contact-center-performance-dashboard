@@ -43,7 +43,7 @@ This project aims to:
 
 # Data Model
 The project uses a Star Schema, a common data warehousing design that improves reporting performance and simplifies analytical queries.
-<img width="1920" height="1080" alt="star-schema" src="[https://github.com/user-attachments/assets/10a2df80-77c5-48df-839d-2b3f42496e67](https://github.com/printfCAT/contact-center-performance-dashboard/blob/main/project-screenshots/star-schema.png)" />
+<img alt="star-schema" src="https://github.com/printfCAT/contact-center-performance-dashboard/project-screenshots/star-schema.png" />
 
 ## Fact Table
 FactCalls
@@ -101,7 +101,7 @@ The dashboard analyzes several common contact center KPIs including:
 * Agent Performance
 
 These metrics provide operational visibility and help identify opportunities for improvement.
-<img width="1920" height="1080" alt="dashboard" src="[https://github.com/user-attachments/assets/10a2df80-77c5-48df-839d-2b3f42496e67](https://github.com/printfCAT/contact-center-performance-dashboard/blob/main/project-screenshots/dashboard.png)" />
+<img alt="dashboard" src="https://github.com/printfCAT/contact-center-performance-dashboard/project-screenshots/dashboard.png" />
 
 # DAX Measures
 
