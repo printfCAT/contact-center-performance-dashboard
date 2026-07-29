@@ -101,7 +101,7 @@ The dashboard analyzes several common contact center KPIs including:
 * Agent Performance
 
 These metrics provide operational visibility and help identify opportunities for improvement.
-<img alt="dashboard" src="https://github.com/printfCAT/contact-center-performance-dashboard/project-screenshots/dashboard.png" />
+<img alt="dashboard" src="https://github.com/printfCAT/contact-center-performance-dashboard/blob/main/project-screenshots/dashboard.png" />
 
 # DAX Measures
 
